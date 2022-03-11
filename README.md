@@ -35,7 +35,13 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 
 ## ⚒️ Languages + Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebGL-darkred?style=for-the-badge&logo=webgl&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
