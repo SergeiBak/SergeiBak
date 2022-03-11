@@ -55,6 +55,11 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergeibak&show_icons=true&locale=en)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergeibak)
 
+## 🔗 Links
+- Website: [https://sergeibak.github.io/PersonalWebsite/](https://sergeibak.github.io/PersonalWebsite/)
+- LinkedIn: [Sergei Bakharev](https://www.linkedin.com/in/sergei-bakharev/)
+- Itch.io: [SergeiBak](https://sergeibak.itch.io/)
+
 <!--
 **SergeiBak/SergeiBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
