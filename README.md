@@ -15,10 +15,6 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 ## 📁 GitHub Projects
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
     <td>Test</td>
     <td>Test 2</td>
  </tr>
