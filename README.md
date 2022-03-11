@@ -53,7 +53,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergeibak&show_icons=true&locale=en)
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergeibak)
 
 <!--
 **SergeiBak/SergeiBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
