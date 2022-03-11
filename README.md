@@ -53,7 +53,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergeibak&show_icons=true&locale=en&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergeibak)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sergeibak&theme=tokyonight)
 
 ## 🔗 Links
 - Website: [https://sergeibak.github.io/PersonalWebsite/](https://sergeibak.github.io/PersonalWebsite/)
