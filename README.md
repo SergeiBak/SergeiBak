@@ -13,7 +13,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
      
         
 ## 📁 GitHub Projects
-<table border="0">
+<table style="width:100%" border="0">
  <tr>
     <td>
      <ul>
