@@ -18,11 +18,17 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
     <td>
      <ul>
           <li><a href="https://github.com/SergeiBak/Pac-Man">🟡◽◽ Pac-Man</a></li>
-          <li>Tea</li>
-          <li>Milk</li>
+          <li><a href="https://github.com/SergeiBak/Pong">🏓 Pong</a></li>
+          <li><a href="https://github.com/SergeiBak/2048">⏹️ 2048</a></li>
      </ul>
     </td>
-    <td>Test 2</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/SergeiBak/Tetris">🧮 Tetris</a></li>
+          <li><a href="https://github.com/SergeiBak/FlappyBird">🐤 Flappy Bird</a></li>
+          <li><a href="https://github.com/SergeiBak/Minesweeper">🚩 Minesweeper</a></li>
+     </ul> 
+    </td>
  </tr>
 </table>
 
