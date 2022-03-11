@@ -13,7 +13,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
      
         
 ## 📁 GitHub Projects
-<table style="width:100%" border="0">
+<table border="0">
  <tr>
     <td>
      <ul>
@@ -31,6 +31,16 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
     </td>
  </tr>
 </table>
+
+
+## ⚒️ Languages + Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 <!--
 **SergeiBak/SergeiBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
