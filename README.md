@@ -5,7 +5,12 @@ Welcome to my GitHub Page! My name is Sergei, I also go by Serge. My passion for
 ![Presentation_Resized](https://user-images.githubusercontent.com/77221025/157789667-04cf83e5-a83a-4394-9b5b-0e12b15decfb.gif)     
     
     
-Since then, I have been actively pursuing my dream of becoming a Software Developer. I have spent my last two years studying at the [University of Washington](https://www.uwb.edu/), and will be graduating with my Bachelor's in [Computer Science & Software Engineering](https://www.uwb.edu/bscsse) this coming Spring! I have always been a diligent worker when it comes to all aspects of life, and am proud to say that I have just recently been awarded a Certifcate of High Scholarship for placing on the Annual Dean's List by nomination on behalf of the Honors Committee. 
+Since then, I have been actively pursuing my dream of becoming a Software Developer. I have spent my last two years studying at the [University of Washington](https://www.uwb.edu/), and will be graduating with my Bachelor's in [Computer Science & Software Engineering](https://www.uwb.edu/bscsse) this coming Spring! I have always been a diligent worker when it comes to all aspects of life, and am proud to say that I have just recently been awarded a Certifcate of High Scholarship for placing on the Annual Dean's List by nomination on behalf of the Honors Committee.      
+        
+![DeansList](https://user-images.githubusercontent.com/77221025/157790656-b8bd1883-7d1a-499e-8246-aea82503b838.PNG)
+
+        
+
 
 <!--
 **SergeiBak/SergeiBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
