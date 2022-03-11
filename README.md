@@ -38,6 +38,8 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebGL-darkred?style=for-the-badge&logo=webgl&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-purple?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
