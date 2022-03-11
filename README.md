@@ -15,7 +15,13 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
 ## 📁 GitHub Projects
 <table border="0">
  <tr>
-    <td>Test</td>
+    <td>
+     <ul>
+          <li><a href="https://github.com/SergeiBak/Pac-Man">🟡◽◽ Pac-Man</a></li>
+          <li>Tea</li>
+          <li>Milk</li>
+     </ul>
+    </td>
     <td>Test 2</td>
  </tr>
 </table>
