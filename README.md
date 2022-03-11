@@ -50,6 +50,11 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergeibak&show_icons=true&locale=en)
+
+
 <!--
 **SergeiBak/SergeiBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
