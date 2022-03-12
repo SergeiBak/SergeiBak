@@ -40,9 +40,9 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudio-purple?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-darkgreen?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-magenta?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
