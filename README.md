@@ -20,7 +20,6 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
           <li><a href="https://github.com/SergeiBak/Pac-Man">🟡◽◽ Pac-Man</a></li>
           <li><a href="https://github.com/SergeiBak/Pong">🏓 Pong</a></li>
           <li><a href="https://github.com/SergeiBak/2048">⏹️ 2048</a></li>
-          <li><a href="https://github.com/SergeiBak/Wordle">🆎 Wordle</a></li>
      </ul>
     </td>
     <td>
@@ -29,6 +28,11 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
           <li><a href="https://github.com/SergeiBak/FlappyBird">🐤 Flappy Bird</a></li>
           <li><a href="https://github.com/SergeiBak/Minesweeper">🚩 Minesweeper</a></li>
      </ul> 
+    </td>
+    <td>
+     <ul>
+          <li><a href="https://github.com/SergeiBak/Wordle">🆎 Wordle</a></li>
+     </ul>
     </td>
  </tr>
 </table>
