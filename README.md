@@ -32,6 +32,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
     <td>
      <ul>
           <li><a href="https://github.com/SergeiBak/Wordle">🆎 Wordle</a></li>
+          <li><a href="https://github.com/SergeiBak/Centipede">🐛 Centipede</a></li>
      </ul>
     </td>
  </tr>
