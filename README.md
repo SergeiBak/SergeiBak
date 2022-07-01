@@ -20,6 +20,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
           <li><a href="https://github.com/SergeiBak/Pac-Man">🟡◽◽ Pac-Man</a></li>
           <li><a href="https://github.com/SergeiBak/Pong">🏓 Pong</a></li>
           <li><a href="https://github.com/SergeiBak/2048">⏹️ 2048</a></li>
+          <li><a href="https://github.com/SergeiBak/Space-Invaders">👾 Space Invaders</a></li>
      </ul>
     </td>
     <td>
