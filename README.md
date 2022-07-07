@@ -14,7 +14,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
         
 ## 📁 GitHub Projects
 
-# Games
+#### Games
 <table border="0">
  <tr>
     <td>
@@ -42,7 +42,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
  </tr>
 </table>
 
-# Other
+#### Other
 <table border="0">
  <tr>
     <td>
@@ -54,10 +54,6 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
       <ul>
           <li><a href="https://github.com/SergeiBak/Correlation-Heatmap-Matrix">🔥🗺️ Correlation Heatmap Matrix Simple Guide</a></li>
      </ul> 
-    </td>
-    <td>
-     <ul>
-     </ul>
     </td>
  </tr>
 </table>
