@@ -30,6 +30,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
           <li><a href="https://github.com/SergeiBak/Tetris">🧮 Tetris</a></li>
           <li><a href="https://github.com/SergeiBak/FlappyBird">🐤 Flappy Bird</a></li>
           <li><a href="https://github.com/SergeiBak/Minesweeper">🚩 Minesweeper</a></li>
+          <li><a href="https://github.com/SergeiBak/Asteroids">🌑 Asteroids</a></li>
      </ul> 
     </td>
     <td>
