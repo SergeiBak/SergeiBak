@@ -38,6 +38,7 @@ Since then, I have been actively pursuing my dream of becoming a Software Develo
           <li><a href="https://github.com/SergeiBak/Wordle">🆎 Wordle</a></li>
           <li><a href="https://github.com/SergeiBak/Centipede">🐛 Centipede</a></li>
           <li><a href="https://github.com/SergeiBak/Snake">🐍 Snake</a></li>
+          <li><a href="https://github.com/SergeiBak/Tic-Tac-Toe">❌⭕ Tic Tac Toe</a></li>
      </ul>
     </td>
  </tr>
